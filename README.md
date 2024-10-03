@@ -10,7 +10,7 @@ The data of members provided to the truss classes should be encoded in the form 
 
 Example 1:
 Given the problem:
-![Example 1](Examples/Example1/example_1.jpg)
+![Example 1](Examples/Example1/example_1.jpg =600x476)
 the solution found out by the program is:
 `
 {Ax: -300, Ay: 480, Bx: 300, FC1x: 795, FC1y: -216, FC2x: -795, FC2y: 216, FD1x: -495, FD1y: -264, FD3x: 495, FD3y: 264, FE2x: 495, FE2y: 264, FE3x: -495, FE3y: -264}
