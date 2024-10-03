@@ -10,6 +10,7 @@ The data of members provided to the truss classes should be encoded in the form 
 
 Example 1:
 Given the problem:
+
 <img src="Examples/Example1/example_1.jpg" width="600" height="476" />
 the solution found out by the program is:
 `
