@@ -1,6 +1,6 @@
 ### Solutions for Trusses and Frames using Python!
 
-My Professor ask us to write programs in order to solve trusses and frame problems when given in encoded form in return for a total of 5 marks being added to our end-semester scores. So here it is.
+My Professor asked us to write programs in order to solve trusses and frame problems when given in encoded form in return for a total of 5 marks being added to our end-semester scores. So here it is.
 I hope I get those 5 extra marks
 
 This project makes use of the joint, member, unknown_force and known_force classes in order to generate equations of static equillibrium on both, members and joints.
